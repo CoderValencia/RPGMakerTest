@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"battlerName":"Theresa.fighting","characterIndex":0,"characterName":"Theresa.walking","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Theresa default face","traits":[],"initialLevel":10,"maxLevel":99,"name":"Theresa","nickname":"Tess","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"madison.sad.walk","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"madison.sad","traits":[],"initialLevel":1,"maxLevel":99,"name":"Madison","nickname":"Lacey","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"nun.default","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"nun.default","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
